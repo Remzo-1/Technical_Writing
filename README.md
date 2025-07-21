@@ -255,6 +255,3 @@ awesome.doSomethingCool();
 ## License
 
 MIT © Your Name
-```
-
-This structure and syntax will help create professional, readable README files that effectively communicate your project's value and usage.
